@@ -12,7 +12,7 @@ Hi 👋, I'm Ekta Chowdhury
 
 🚀 Skills & Tools<br/>
 
-Languages: Python, C/C++, Java, JavaScript, PHP, SQL<br/>
+Languages: Python, C/C++, Java, JavaScript, SQL<br/>
 
 Frameworks & Tools: Git & GitHub, VS Code, Jupyter Notebook, Google Colab<br/>
 
