@@ -104,7 +104,7 @@ I'm open to:
 - 💼 **Freelance projects** — dashboards, ML models, data pipelines, LLM tools
 - 🤝 **Collaborations** on open-source data / AI projects
 
-**Best way to reach me:** [your.email@gmail.com](mailto:chowdhuryekta06@gmail.com) · [LinkedIn](https://linkedin.com/in/ekta-chowdhury)
+**Best way to reach me:** [chowdhuryekta06@gmail.com](mailto:chowdhuryekta06@gmail.com) · [LinkedIn](https://linkedin.com/in/ekta-chowdhury)
 
 ---
 
