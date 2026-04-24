@@ -4,14 +4,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ekta+Chowdhury+%F0%9F%91%8B;Data+Analyst+%7C+ML+Engineer;Turning+raw+data+into+real+decisions.)](https://git.io/typing-svg)
 
 <!-- ONE-LINE PITCH — human, not corporate -->
-**I build data pipelines, ML models, and dashboards that answer hard questions — open to remote & freelance.**
+**I build data pipelines, ML models, and dashboards that answer hard questions.**
 
 <br/>
 
 <!-- SOCIAL BADGES — fill in your actual links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_LINK)
-[![Gmail](https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ekta-chowdhury)
+[![Gmail](https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chowdhuryekta06@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=EktaC06&style=for-the-badge&color=00b4d8)](https://github.com/EktaC06)
 
 </div>
@@ -20,7 +19,7 @@
 
 ## 🧠 What I Do
 
-I'm a CS student specializing at the intersection of **data analytics**, **machine learning**, and **AI engineering**.
+I'm a CS student specializing at the intersection of **Data Analytics**, **Data Science** **Machine Learning**, and **AI Engineering**.
 I don't just build models — I build things that *work in production* and can be explained to a non-technical stakeholder.
 
 - 📊 **Data Analytics** — SQL (SSMS), Python (Pandas, NumPy), Power BI, Excel, EDA, Data Warehousing
@@ -34,33 +33,20 @@ I don't just build models — I build things that *work in production* and can b
 
 ## 🔥 Featured Projects
 
-> ⚠️ **ACTION REQUIRED:** Pin these repos on your GitHub profile page too (Settings → Customize profile → Pin repositories)
-
-### 🔹 [Project Name 1](https://github.com/EktaC06/YOUR_REPO)
-**What it solves:** [1 sentence — e.g., "Predicts customer churn with 91% accuracy using telecom data."]
-**Stack:** Python · scikit-learn · Pandas · Streamlit
-**Key result:** [e.g., "Deployed as a live Streamlit app. Reduced false negatives by 18% vs baseline."]
-
----
-
-### 🔹 [Project Name 2](https://github.com/EktaC06/YOUR_REPO)
-**What it solves:** [e.g., "Interactive Power BI dashboard tracking sales KPIs across 5 regions."]
-**Stack:** SQL (SSMS) · Power BI · Excel · DAX
-**Key result:** [e.g., "Identified ₹2.3L revenue gap missed in raw reports."]
+### 🔹 [Project Name 1](https://github.com/EktaC06/legal-petition-ai)
+**What it solves:** [LegalAI helps lawyers assess petition viability in seconds using a fine-tuned legal BERT model trained on 32,000+ Supreme Court judgments. It combines predictive accuracy with legal reasoning generation and precedent retrieval to reduce filing risk and accelerate case screening.]
+**Stack:** Python · scikit-learn · Pandas · SHAP · FAISS · Qwen 2.5 1.5B · FastAPI (Python 3.10)
+**Key result:** [Prevents 59% of non-viable petitions from being filed (addressing the majority rejection rate)
+Sub-second latency enables bulk screening at scale
+SHAP explainability + generative suggestions turn rejections into actionable next steps]
 
 ---
 
-### 🔹 [Project Name 3](https://github.com/EktaC06/YOUR_REPO)
-**What it solves:** [e.g., "LangChain-powered Q&A bot over custom PDF documents."]
-**Stack:** Python · LangChain · FAISS · Streamlit
-**Key result:** [e.g., "Answers domain-specific questions with source citation in < 3 seconds."]
-
----
-
-### 🔹 [Project Name 4](https://github.com/EktaC06/YOUR_REPO)
-**What it solves:** [e.g., "Deep learning model to classify skin conditions from images."]
-**Stack:** PyTorch · CNN · OpenCV · Matplotlib
-**Key result:** [e.g., "Achieved 87% test accuracy on a 4-class medical dataset."]
+### 🔹 [Project Name 2](https://github.com/EktaC06/LocalRAG-Agent)
+**What it solves:** [Built local AI agent that answers document queries without cloud APIs. Eliminates privacy risks and API costs by moving document Q&A entirely offline—no data leaves your machine, no per-query fees.
+Enables teams without reliable internet or cloud budgets to deploy intelligent document search locally with full data control.]
+**Stack:** Python · LangChain · ChromaDB · Ollama
+**Key result:** [Delivers private, offline document intelligence with zero API costs — RAG pipeline maintains context relevance while protecting data from external services.]
 
 ---
 
@@ -86,9 +72,6 @@ I don't just build models — I build things that *work in production* and can b
 <!-- STATS CARD — change username if needed -->
 ![Ekta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EktaC06&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-<!-- STREAK STATS -->
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=EktaC06&theme=tokyonight&hide_border=true)
-
 <!-- TOP LANGUAGES -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EktaC06&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
 
@@ -106,14 +89,6 @@ I don't just build models — I build things that *work in production* and can b
 </div>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<!-- TROPHIES — replace username -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=EktaC06&theme=tokyonight&no-frame=true&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
 </div>
 
 ---
@@ -121,11 +96,11 @@ I don't just build models — I build things that *work in production* and can b
 ## 📬 Let's Connect
 
 I'm open to:
-- 🧑‍💻 **Remote full-time / part-time roles** — Data Analyst, Data Scientist, ML Engineer
+- 🧑‍💻 **Remote & Hybrid full-time / part-time roles** — Data Analyst, Data Scientist, ML Engineer
 - 💼 **Freelance projects** — dashboards, ML models, data pipelines, LLM tools
 - 🤝 **Collaborations** on open-source data / AI projects
 
-**Best way to reach me:** [your.email@gmail.com](mailto:your.email@gmail.com) · [LinkedIn](https://linkedin.com/in/YOUR_HANDLE)
+**Best way to reach me:** [your.email@gmail.com](mailto:chowdhuryekta06@gmail.com) · [LinkedIn](https://linkedin.com/in/ekta-chowdhury)
 
 ---
 
