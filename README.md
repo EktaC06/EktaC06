@@ -45,12 +45,12 @@ SHAP explainability + generative suggestions turn rejections into actionable nex
 ---
 
 ### 🔹 [LocalRAG-Agent](https://github.com/EktaC06/LocalRAG-Agent)
-**What it solves:** [Built local AI agent that answers document queries without cloud APIs. Eliminates privacy risks and API costs by moving document Q&A entirely offline—no data leaves your machine, no per-query fees.
-Enables teams without reliable internet or cloud budgets to deploy intelligent document search locally with full data control.]
+**What it solves:** Built local AI agent that answers document queries without cloud APIs. Eliminates privacy risks and API costs by moving document Q&A entirely offline—no data leaves your machine, no per-query fees.
+Enables teams without reliable internet or cloud budgets to deploy intelligent document search locally with full data control.
 
 **Stack:** Python · LangChain · ChromaDB · Ollama
 
-**Key result:** [Delivers private, offline document intelligence with zero API costs — RAG pipeline maintains context relevance while protecting data from external services.]
+**Key result:** Delivers private, offline document intelligence with zero API costs — RAG pipeline maintains context relevance while protecting data from external services.
 
 ---
 
