@@ -1,33 +1,134 @@
-Hi 👋, I'm Ekta Chowdhury
+<div align="center">
 
-🌱 A passionate developer and data enthusiast exploring the intersection of software engineering, data analytics, and AI/ML.<br/>
-💡 I enjoy solving real-world problems through clean code, structured learning, and impactful projects.<br/>
-⚡ Currently working on:<br/>
+<!-- ANIMATED HEADER — replace 'EktaC06' with your GitHub username if different -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ekta+Chowdhury+%F0%9F%91%8B;Data+Analyst+%7C+ML+Engineer;Turning+raw+data+into+real+decisions.)](https://git.io/typing-svg)
 
-📊 Learning Data Analytics & Visualization (Excel, SQL, Python, Tableau, Power BI)<br/>
+<!-- ONE-LINE PITCH — human, not corporate -->
+**I build data pipelines, ML models, and dashboards that answer hard questions — open to remote & freelance.**
 
-🛠️ Building projects in PHP, JavaScript, and Python<br/>
+<br/>
 
-🤖 Exploring AI/ML algorithms and applications<br/>
+<!-- SOCIAL BADGES — fill in your actual links -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_LINK)
+[![Gmail](https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Profile Views](https://komarev.com/ghpvc/?username=EktaC06&style=for-the-badge&color=00b4d8)](https://github.com/EktaC06)
 
-🚀 Skills & Tools<br/>
-
-Languages: Python, C/C++, Java, JavaScript, SQL<br/>
-
-Frameworks & Tools: Git & GitHub, VS Code, Jupyter Notebook, Google Colab<br/>
-
-Data & Visualization: SQL Server Management Studio (SSMS), MySQL, Pandas, NumPy, Tableau, Power BI<br/>
-
-Concepts: DSA, OOPS, Algorithms, Data Cleaning, Machine Learning basics<br/>
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=EktaC06&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=EktaC06&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EktaC06&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=EktaC06&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 What I Do
+
+I'm a CS student specializing at the intersection of **data analytics**, **machine learning**, and **AI engineering**.
+I don't just build models — I build things that *work in production* and can be explained to a non-technical stakeholder.
+
+- 📊 **Data Analytics** — SQL (SSMS), Python (Pandas, NumPy), Power BI, Excel, EDA, Data Warehousing
+- 🤖 **Machine Learning** — scikit-learn, PyTorch, Deep Learning, Neural Networks, NLP
+- 🚀 **Deployment** — Streamlit apps, REST APIs, end-to-end ML pipelines
+- 🔗 **GenAI / LLM** — LangChain, RAG pipelines, LLM-powered tools
+
+> Currently available for **remote data analyst / ML engineer roles** and **freelance data projects**.
+
+---
+
+## 🔥 Featured Projects
+
+> ⚠️ **ACTION REQUIRED:** Pin these repos on your GitHub profile page too (Settings → Customize profile → Pin repositories)
+
+### 🔹 [Project Name 1](https://github.com/EktaC06/YOUR_REPO)
+**What it solves:** [1 sentence — e.g., "Predicts customer churn with 91% accuracy using telecom data."]
+**Stack:** Python · scikit-learn · Pandas · Streamlit
+**Key result:** [e.g., "Deployed as a live Streamlit app. Reduced false negatives by 18% vs baseline."]
+
+---
+
+### 🔹 [Project Name 2](https://github.com/EktaC06/YOUR_REPO)
+**What it solves:** [e.g., "Interactive Power BI dashboard tracking sales KPIs across 5 regions."]
+**Stack:** SQL (SSMS) · Power BI · Excel · DAX
+**Key result:** [e.g., "Identified ₹2.3L revenue gap missed in raw reports."]
+
+---
+
+### 🔹 [Project Name 3](https://github.com/EktaC06/YOUR_REPO)
+**What it solves:** [e.g., "LangChain-powered Q&A bot over custom PDF documents."]
+**Stack:** Python · LangChain · FAISS · Streamlit
+**Key result:** [e.g., "Answers domain-specific questions with source citation in < 3 seconds."]
+
+---
+
+### 🔹 [Project Name 4](https://github.com/EktaC06/YOUR_REPO)
+**What it solves:** [e.g., "Deep learning model to classify skin conditions from images."]
+**Stack:** PyTorch · CNN · OpenCV · Matplotlib
+**Key result:** [e.g., "Achieved 87% test accuracy on a 4-class medical dataset."]
+
+---
+
+## 🛠️ Core Stack
+
+<!-- ONLY the tools you actually use well. No filler. -->
+
+| Domain | Tools |
+|---|---|
+| **Languages** | Python · SQL · JavaScript |
+| **Data & Analysis** | Pandas · NumPy · Matplotlib · Excel · EDA |
+| **ML / DL** | scikit-learn · PyTorch · Neural Networks · Deep Learning |
+| **GenAI** | LangChain · RAG · Prompt Engineering |
+| **BI & Reporting** | Power BI · DAX · Data Warehousing · SSMS |
+| **Deployment** | Streamlit · Git/GitHub · Google Colab |
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<!-- STATS CARD — change username if needed -->
+![Ekta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EktaC06&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+<!-- STREAK STATS -->
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=EktaC06&theme=tokyonight&hide_border=true)
+
+<!-- TOP LANGUAGES -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EktaC06&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
+
+</div>
+
+---
+
+## 📅 Contribution Activity
+
+<div align="center">
+
+<!-- ACTIVITY GRAPH — replace username -->
+[![Ekta's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EktaC06&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<!-- TROPHIES — replace username -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=EktaC06&theme=tokyonight&no-frame=true&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📬 Let's Connect
+
+I'm open to:
+- 🧑‍💻 **Remote full-time / part-time roles** — Data Analyst, Data Scientist, ML Engineer
+- 💼 **Freelance projects** — dashboards, ML models, data pipelines, LLM tools
+- 🤝 **Collaborations** on open-source data / AI projects
+
+**Best way to reach me:** [your.email@gmail.com](mailto:your.email@gmail.com) · [LinkedIn](https://linkedin.com/in/YOUR_HANDLE)
+
+---
+
+<div align="center">
+<sub>Built with curiosity. Refined with data. 🚀</sub>
+</div>
