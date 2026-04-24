@@ -34,9 +34,11 @@ I don't just build models — I build things that *work in production* and can b
 ## 🔥 Featured Projects
 
 ### 🔹 [LegalAI](https://github.com/EktaC06/legal-petition-ai)
-**What it solves:** [LegalAI helps lawyers assess petition viability in seconds using a fine-tuned legal BERT model trained on 32,000+ Supreme Court judgments. It combines predictive accuracy with legal reasoning generation and precedent retrieval to reduce filing risk and accelerate case screening.]
+**What it solves:** LegalAI helps lawyers assess petition viability in seconds using a fine-tuned legal BERT model trained on 32,000+ Supreme Court judgments. It combines predictive accuracy with legal reasoning generation and precedent retrieval to reduce filing risk and accelerate case screening.
+
 **Stack:** Python · scikit-learn · Pandas · SHAP · FAISS · Qwen 2.5 1.5B · FastAPI (Python 3.10)
-**Key result:** [Prevents 59% of non-viable petitions from being filed (addressing the majority rejection rate)
+
+**Key result:** Prevents 59% of non-viable petitions from being filed (addressing the majority rejection rate)
 Sub-second latency enables bulk screening at scale
 SHAP explainability + generative suggestions turn rejections into actionable next steps]
 
@@ -45,7 +47,9 @@ SHAP explainability + generative suggestions turn rejections into actionable nex
 ### 🔹 [LocalRAG-Agent](https://github.com/EktaC06/LocalRAG-Agent)
 **What it solves:** [Built local AI agent that answers document queries without cloud APIs. Eliminates privacy risks and API costs by moving document Q&A entirely offline—no data leaves your machine, no per-query fees.
 Enables teams without reliable internet or cloud budgets to deploy intelligent document search locally with full data control.]
+
 **Stack:** Python · LangChain · ChromaDB · Ollama
+
 **Key result:** [Delivers private, offline document intelligence with zero API costs — RAG pipeline maintains context relevance while protecting data from external services.]
 
 ---
