@@ -54,6 +54,15 @@ Enables teams without reliable internet or cloud budgets to deploy intelligent d
 
 ---
 
+### 🔹 [Customer-Shopping-Behavior-Analytics](https://github.com/EktaC06/Customer-Shopping-Behavior-Analytics.git)
+**What it solves:** Helps businesses understand customer purchasing behavior, discount effectiveness, subscription impact, and high-value customer segments to support data-driven marketing, retention, and revenue optimization strategies.
+
+**Stack:** Python · SQL · PostgreSQL · Power BI · Data Modeling
+
+**Key result:** Built an end-to-end analytics workflow using Python, PostgreSQL, SQL, and Power BI that generated actionable business insights through customer segmentation, KPI analysis, interactive dashboards, and revenue-focused reporting.
+
+---
+
 ## 🛠️ Core Stack
 
 <!-- ONLY the tools you actually use well. No filler. -->
