@@ -22,7 +22,7 @@
 I'm a CS student specializing at the intersection of **Data Analytics**, **Data Science** **Machine Learning**, and **AI Engineering**.
 I don't just build models — I build things that *work in production* and can be explained to a non-technical stakeholder.
 
-- 📊 **Data Analytics** — SQL (SSMS), Python (Pandas, NumPy), Power BI, Excel, EDA, Data Warehousing
+- 📊 **Data Analytics** — SQL, PostgreSQL, MySQL, Python (Pandas, NumPy, Matplotlib), Power BI, Excel, EDA, Data Warehousing, Data Modeling
 - 🤖 **Machine Learning** — scikit-learn, PyTorch, Deep Learning, Neural Networks, NLP
 - 🚀 **Deployment** — Streamlit apps, REST APIs, end-to-end ML pipelines
 - 🔗 **GenAI / LLM** — LangChain, RAG pipelines, LLM-powered tools
