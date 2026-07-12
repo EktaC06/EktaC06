@@ -27,11 +27,29 @@ I don't just build models — I build things that *work in production* and can b
 - 🚀 **Deployment** — Streamlit apps, REST APIs, end-to-end ML pipelines
 - 🔗 **GenAI / LLM** — LangChain, RAG pipelines, LLM-powered tools
 
-> Currently available for **remote data analyst / ML engineer roles** and **freelance data projects**.
+> Currently available for **Data analyst / ML engineer roles** and **Freelance data projects**.
 
 ---
 
 ## 🔥 Featured Projects
+
+### 🔹 [Customer-Segmentation-Retention-Strategy](https://github.com/EktaC06/Customer-Segmentation-Retention-Strategy)
+**What it solves:** Built a data-driven customer segmentation and churn analysis solution for a telecom provider that identifies high-value and at-risk customer groups using RFM-based feature engineering and K-Means clustering. Instead of applying the same retention strategy to every customer, the solution enables targeted retention campaigns based on customer behavior, revenue contribution, and churn risk—helping reduce revenue loss and optimize retention spending.
+
+**Stack:** Python · Pandas · Matplotlib · SQL Server (SSMS) · Power BI · DAX
+
+**Key result:** Segmented ~6,400 telecom customers into four behavioral cohorts using K-Means clustering and identified an overall 27% customer churn rate, with approximately 17% of total revenue at risk. The analysis revealed that High-Value Champions, despite having the lowest churn rate (14.65%), accounted for the highest revenue exposure (₹1.52M) due to their significantly larger revenue contribution. It also showed that customers with an average tenure of nearly 29 months still experienced 31%+ churn, demonstrating that long tenure alone is not a reliable indicator of loyalty. To support business decision-making, developed SQL-based KPI queries and an interactive Power BI dashboard that tracks churn, revenue at risk, contract distribution, and customer segments, enabling targeted, data-driven retention strategies.
+
+---
+
+### 🔹 [Customer-Shopping-Behavior-Analytics](https://github.com/EktaC06/Customer-Shopping-Behavior-Analytics.git)
+**What it solves:** Helps businesses understand customer purchasing behavior, discount effectiveness, subscription impact, and high-value customer segments to support data-driven marketing, retention, and revenue optimization strategies.
+
+**Stack:** Python · SQL · PostgreSQL · Power BI · Data Modeling
+
+**Key result:** Built an end-to-end analytics workflow using Python, PostgreSQL, SQL, and Power BI that generated actionable business insights through customer segmentation, KPI analysis, interactive dashboards, and revenue-focused reporting.
+
+---
 
 ### 🔹 [LegalAI](https://github.com/EktaC06/legal-petition-ai)
 **What it solves:** LegalAI helps lawyers assess petition viability in seconds using a fine-tuned legal BERT model trained on 32,000+ Supreme Court judgments. It combines predictive accuracy with legal reasoning generation and precedent retrieval to reduce filing risk and accelerate case screening.
@@ -54,15 +72,6 @@ Enables teams without reliable internet or cloud budgets to deploy intelligent d
 
 ---
 
-### 🔹 [Customer-Shopping-Behavior-Analytics](https://github.com/EktaC06/Customer-Shopping-Behavior-Analytics.git)
-**What it solves:** Helps businesses understand customer purchasing behavior, discount effectiveness, subscription impact, and high-value customer segments to support data-driven marketing, retention, and revenue optimization strategies.
-
-**Stack:** Python · SQL · PostgreSQL · Power BI · Data Modeling
-
-**Key result:** Built an end-to-end analytics workflow using Python, PostgreSQL, SQL, and Power BI that generated actionable business insights through customer segmentation, KPI analysis, interactive dashboards, and revenue-focused reporting.
-
----
-
 ## 🛠️ Core Stack
 
 <!-- ONLY the tools you actually use well. No filler. -->
@@ -75,20 +84,6 @@ Enables teams without reliable internet or cloud budgets to deploy intelligent d
 | **GenAI** | LangChain · RAG · Prompt Engineering |
 | **BI & Reporting** | Power BI · DAX · Data Warehousing · SSMS |
 | **Deployment** | Streamlit · Git/GitHub · Google Colab |
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<!-- STATS CARD — change username if needed -->
-![Ekta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EktaC06&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-<!-- TOP LANGUAGES -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EktaC06&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
-
-</div>
 
 ---
 
