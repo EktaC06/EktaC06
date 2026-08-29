@@ -86,17 +86,6 @@ Enables teams without reliable internet or cloud budgets to deploy intelligent d
 | **Deployment** | Streamlit · Git/GitHub · Google Colab |
 
 ---
-
-## 📅 Contribution Activity
-
-<div align="center">
-
-<!-- ACTIVITY GRAPH — replace username -->
-[![Ekta's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EktaC06&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
 </div>
 
 ---
