@@ -19,7 +19,7 @@
 
 ## 🧠 What I Do
 
-I'm a CS student specializing at the intersection of **Data Analytics**, **Data Science** **Machine Learning**, and **AI Engineering**.
+I'm a Computer Science engineer specializing at the intersection of **Data Analytics**, **Data Science** **Machine Learning**, and **AI Engineering**.
 I don't just build models — I build things that *work in production* and can be explained to a non-technical stakeholder.
 
 - 📊 **Data Analytics** — SQL, PostgreSQL, MySQL, Python (Pandas, NumPy, Matplotlib), Power BI, Excel, EDA, Data Warehousing, Data Modeling
